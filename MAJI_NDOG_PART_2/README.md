@@ -15,9 +15,9 @@ Our primary goals include:
 
 **2. Personal Motivation**
 
-As a passionate data scientist with a background in biochemistry and bioinformatics, I am deeply invested in leveraging my skills to address critical global issues. The water crisis is a major concern, and this project resonated with my desire to make a positive impact on people's lives.
+As a passionate data scientist with a background in Mathematics and Computer Science, I am deeply invested in leveraging my skills to address critical global issues. The water crisis is a major concern, and this project resonated with my desire to make a positive impact on people's lives.
 
-Furthermore, my experience growing up in Nigeria instilled a deep appreciation for the value of clean water. Witnessing firsthand the struggles communities face due to water scarcity fueled my determination to contribute to solutions in Maji Ndogo. This project aligns perfectly with my career aspirations to utilize data science for social good and sustainable development.
+Furthermore, my experience growing up in Kenya instilled a deep appreciation for the value of clean water. Witnessing firsthand the struggles communities face due to water scarcity fueled my determination to contribute to solutions in Maji Ndogo. This project aligns perfectly with my career aspirations to utilize data science for social good and sustainable development.
 
 **Data Collection and Preparation**
 
