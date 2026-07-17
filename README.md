@@ -117,11 +117,6 @@ This project has been a pivotal experience in my professional development. I hav
 My journey in Maji Ndogo has reinforced my passion for using data to drive meaningful change. I am grateful for the support and collaboration of my mentors and peers throughout this project. As I look towards the future, I am excited to continue applying my skills to address critical challenges and make a positive impact on the world.
 
 ## Attachments and References
-
-### Supporting Documents
-
-- [Code Repository](https://github.com/paschalugwu/alx-data_science-SQL)
-
 ### References
 
 - ExploreAI Academy. (2024). Dataset provided for the Maji Ndogo project.
